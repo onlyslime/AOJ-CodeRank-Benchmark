@@ -37,7 +37,6 @@ The final rank is determined by a strict two-tiered system:
 
 **Efficiency Score Formula:**
 The efficiency score is the negative sum of normalized time and memory costs.
-$$\text{Score} = -(\text{Norm\_Time} + \text{Norm\_Memory})$$
 
 ## 2. 📁 Raw Data Archive (For Validation)
 
